@@ -1,0 +1,2 @@
+# storetranslate
+Storetranslate
